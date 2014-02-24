@@ -22,6 +22,7 @@
  * @package    tools
  * @copyright  Copyright (c) 2009 Irubin Consulting Inc. DBA Varien (http://www.varien.com)
  * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+<<<<<<< HEAD
  *
  *
  *
@@ -45,6 +46,17 @@
  * x
  * ijasgoilkjagoi
  * asgkjhagliuj
+=======
+ * 
+ * 
+ * 
+ 
+ 
+ 
+ 
+ 
+ these are bug fixers
+>>>>>>> 2e2479e3db83b8d7d2357ea6bd9626c7c05b5973
  */
 
 class Tools_Db_Repair_Mysql4
